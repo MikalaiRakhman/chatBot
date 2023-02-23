@@ -1,0 +1,6 @@
+telegram\bot\BelarusBorder\config\BotConfig.class
+telegram\bot\BelarusBorder\model\UserRepository.class
+telegram\bot\BelarusBorder\service\TelegramBot.class
+telegram\bot\BelarusBorder\BelarusBorderApplication.class
+telegram\bot\BelarusBorder\config\BotInitializer.class
+telegram\bot\BelarusBorder\model\User.class
